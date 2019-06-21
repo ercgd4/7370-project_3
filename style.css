@@ -1,0 +1,109 @@
+body
+{
+background-color: #fffdd0;
+font-family: sans-serif;
+}
+  
+h1 
+{
+color: black;
+font-weight: bold;
+font-style: normal;
+font-size: 30px;
+}
+
+h2
+{
+color: black;
+font-size: 24px;
+font-style: normal;    
+}
+
+p 
+{
+color: black;
+}
+
+body
+{  
+margin:20px;
+}
+
+section
+{
+font-family: sans-serif;
+}
+
+.basicborder
+{
+margin: 0;
+border: 2px dashed red;
+height: 30px;
+}
+
+.typesofborder
+{
+height: 130px;
+width: 300px;
+border-top: 10px double purple;
+border-right: 10px dotted black;
+border-bottom: 10px groove orange;
+border-left: 10px dashed red;
+}
+
+.cellpaddingexample
+{
+border: 5px solid green;
+padding-top: 20px;
+padding-right: 50px;
+padding-bottom: 100px;
+padding-left: 10px;
+}
+
+.marginexample 
+{
+border: 10px solid blue;
+margin-top: 20px;
+margin-right: 100px;
+margin-bottom: 200px;
+margin-left: 50px;
+}
+
+.floatbox1
+{
+border: 2px solid blue;
+height: 300px;
+width: 500px;
+}
+
+.floatbox2
+{
+border: 2px solid purple;
+height: 300px;
+width: 500px;
+}
+
+.floatleft
+{
+float: left;
+}
+
+.floatbox3
+{
+border: 2px solid orange;
+height: 300px;
+width: 500px;
+}
+
+.floatright
+{
+float: right;
+}
+
+.floatleftoverflowhidden
+{
+border: 2px solid green;
+height: 100px;
+width: 800px;
+overflow: hidden;
+}
